@@ -1,6 +1,6 @@
 <?php
 session_start();
-$PageTitle = 'Home Page';
+$PageTitle = 'Home Page And Dasboard';
 include "init.php";
 if (isset($_SESSION['user'])) {
 
