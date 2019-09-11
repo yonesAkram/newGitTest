@@ -105,9 +105,6 @@ include "init.php";
         <div class="panel panel-success">
             <div class="panel-heading">
                 <h3 class="panel-title">Result Student Degress</h3>
-                <h3 class="panel-title">
-                    
-                </h3><br />
             </div>
             <table class="table table-hover" id="task-table">
                 <thead>
