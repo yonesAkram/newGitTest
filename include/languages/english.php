@@ -8,15 +8,14 @@
 			// navbar links
 
 			'Home_Admin' 	=> 'Home',
-			'CATERGRIES'   	=> 'Categories',
-			'ITEMS'	 		=> 'Items',
-			'MEMBERS' 		=> 'members',
-			'COMMENTS' 		=> 'Comments',
-			'STATISTICS' 	=> 'statistics',
-			'LOGS' 			=> 'logs',
-			'' => '',
-
-
+			'ABOUT'   		=> 'about',
+			'NEWS'	 		=> 'News',
+			'ADMISSION' 	=> 'Admission',
+			'All_Results' 	=> 'All_Results',
+			'RESULTS' 		=> 'Result',
+			'LOGIN' 	 	=> 'Login',
+			'REGISTER' 		=> 'Register',
+			'LOGOUT' 		=> 'Logout',
 			);
 		return $lang[$phrase];
 
